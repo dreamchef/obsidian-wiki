@@ -1,10 +1,4 @@
----
-id: yaf7uinqp32jcibom1qlwl3
-title: Unity
-desc: ''
-updated: 1654530812292
-created: 1654530812292
----
+
 #graphics #tool
 # Modeling
 Use ProBuilder

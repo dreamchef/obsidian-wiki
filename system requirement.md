@@ -1,10 +1,4 @@
----
-id: tgorkq9wekai78tb0o47vpv
-title: System Requirement
-desc: ''
-updated: 1656536962753
-created: 1654530813905
----
+
 #software-development #concept 
 
 activities a new system must perform or support and the constrints that the new system must meet

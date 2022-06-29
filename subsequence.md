@@ -1,10 +1,4 @@
----
-id: 7g7vxsti9p8x9xhidnoon1s
-title: Subsequence
-desc: ''
-updated: 1656536741592
-created: 1654530813875
----
+
 #analysis 
 
 $$(a_{n_k}) = (a_{n_1}, a_{n_2}, a_{n_3}, ...)$$

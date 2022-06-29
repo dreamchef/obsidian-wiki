@@ -1,10 +1,4 @@
----
-id: c5lnmrhp2ar7yxpr6xvvtb3
-title: Algorithm Design
-desc: ''
-updated: 1654530812366
-created: 1654530812366
----
+
 #algorithms #paradigm
 # General Approach
 1. Solve simple instances of the problem

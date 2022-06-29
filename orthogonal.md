@@ -1,10 +1,4 @@
----
-id: 7ktcpfb98jcfzde08ejcujf
-title: Orthogonal
-desc: ''
-updated: 1656514849388
-created: 1654530813501
----
+
 #linear-algebra 
 
 Two vectors are orthogonal if their inner product is 0.

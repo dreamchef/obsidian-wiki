@@ -1,10 +1,4 @@
----
-id: pgnanifpq5erdinco3v3dxm
-title: Perfect matching
-desc: ''
-updated: 1656469958616
-created: 1654530812128
----
+
 #combinatorics  
 
 a matching in which every vertex is saturated

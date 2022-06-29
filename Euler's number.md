@@ -1,10 +1,4 @@
----
-id: as4w0mezyoolzy4az1alw78
-title: Euler's number
-desc: ''
-updated: 1656452200098
-created: 1654530811823
----
+
 #analysis
 
 $e = \lim_{n \rightarrow \infty} (1 + \frac{1}{n})^n = \sum_{n=0}^\infty \frac{1}{n!}$

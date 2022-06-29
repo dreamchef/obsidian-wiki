@@ -1,10 +1,4 @@
----
-id: 55dimxaanc3lbbi0k60vyxo
-title: Linear Program
-desc: ''
-updated: 1656469452774
-created: 1654530813249
----
+
 #quantitative-analysis 
 
 method of solving linear algebera problems by formulating them as a system of equations and inequalities (one for each constraint) plus an objective function

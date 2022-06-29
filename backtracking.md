@@ -1,10 +1,4 @@
----
-id: tr4tq2s2befadrjwh40hnwp
-title: Backtracking
-desc: ''
-updated: 1656436627552
-created: 1654530812475
----
+
 #algorithms
 
 a set of algorithms used to find, given a set of objects, a sequence of chosen objects that satisfies some criterion

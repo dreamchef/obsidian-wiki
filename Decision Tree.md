@@ -1,10 +1,4 @@
----
-id: lex92ooh26osjb7493u4ab8
-title: Decision Tree
-desc: ''
-updated: 1656450443726
-created: 1654530811724
----
+
 #quantitative-analysis #method
 
 tree containing containing chance nodes with profits, and decision nodes with costs

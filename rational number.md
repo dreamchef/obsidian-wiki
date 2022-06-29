@@ -1,10 +1,4 @@
----
-id: o2iewz3x5p0gmepmdt5b2fn
-title: Rational Number
-desc: ''
-updated: 1656516068384
-created: 1654530813606
----
+
 #analysis 
 
 $\frac{p}{q}$ where $p, q \in \mathbb{Q}$

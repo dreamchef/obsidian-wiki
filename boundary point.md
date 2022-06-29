@@ -1,10 +1,4 @@
----
-id: 8lmcoyu70slaljpcb74wpyo
-title: Boundary Point
-desc: ''
-updated: 1656438796085
-created: 1654530812509
----
+
 #analysis 
 
 (of a set $A$) the set of points $a \in R$ such that

@@ -1,10 +1,4 @@
----
-id: vbdgairmw3r3s97aqd89lam
-title: Matching
-desc: ''
-updated: 1656512154492
-created: 1654530813305
----
+
 #combinatorics 
 
 A set of edges with no common vertices

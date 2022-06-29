@@ -1,10 +1,4 @@
----
-id: xm2tiyrrsktctfp7c8gswt6
-title: Hamiltonian Circuit
-desc: ''
-updated: 1656514554131
-created: 1654530813011
----
+
 #combinatorics
 
 # Finding a Circuit

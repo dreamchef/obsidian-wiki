@@ -1,10 +1,4 @@
----
-id: hlver8ugilcxctg1ptxbuzg
-title: Orthonormal Basis
-desc: ''
-updated: 1656514929592
-created: 1654530813511
----
+
 #linear-algebra
 
 basis set of normalized vectors, all pairs of which are [[orthogonal]]

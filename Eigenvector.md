@@ -1,10 +1,4 @@
----
-id: 2eri1r6gqocyhy46c89sxfd
-title: Eigenvector
-desc: ''
-updated: 1654530811784
-created: 1654530811784
----
+
 #linear-algebra #concept
 # Computation
 To find the Eigenvector $\vec{v}$ associated with [[Eigenvalue]] $\lambda$, consider the equation

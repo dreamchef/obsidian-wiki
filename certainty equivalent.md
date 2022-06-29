@@ -1,10 +1,4 @@
----
-id: 7eqxo1b4xuf8dz1mw67ua9k
-title: Certainty Equivalent
-desc: ''
-updated: 1656444786252
-created: 1654530812539
----
+
 #quantitative-analysis
 
 threshold at which you will take certain payoff over chance of a higher payoff

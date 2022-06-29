@@ -1,10 +1,4 @@
----
-id: t7szupf1zok81wut5epftkf
-title: Generating Function
-desc: ''
-updated: 1654530812969
-created: 1654530812969
----
+
 #combinatorics #concept
 # General form
 the ordinary generating function is defined to be 

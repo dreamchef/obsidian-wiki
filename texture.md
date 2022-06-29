@@ -1,10 +1,4 @@
----
-id: 40z1fjd38sq96k73de955gr
-title: Texture
-desc: ''
-updated: 1654530813973
-created: 1654530813973
----
+
 #graphics #concept
 
 Add detail without explicit modeling.

@@ -1,10 +1,4 @@
----
-id: tnhc85rp3zodv8bgmp2ah28
-title: Markov Matrix
-desc: ''
-updated: 1656470495867
-created: 1654530813292
----
+
 #linear-algebra 
 
 matrix A with the following properties

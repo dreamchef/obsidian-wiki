@@ -1,10 +1,4 @@
----
-id: q7d4pjv7u19e1w9ct5s853e
-title: Chinese postman problem
-desc: ''
-updated: 1656447185924
-created: 1654530811697
----
+
 #combinatorics
 
 Given a graph G, find the optimal multigraph H.

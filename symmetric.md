@@ -1,10 +1,4 @@
----
-id: 1lu9d0tmp7f0ojpgmo8iwdj
-title: Symmetric
-desc: ''
-updated: 1656536975494
-created: 1654530813900
----
+
 #linear-algebra 
 
 A symmetric matrix has

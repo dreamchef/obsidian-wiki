@@ -1,10 +1,4 @@
----
-id: 6bicyymb2a0shhh90twdgg2
-title: Least Squares Solution
-desc: ''
-updated: 1656468840020
-created: 1654530813180
----
+
 #linear-algebra 
 
 1. Write A from data based on chosen model (i.e. polynomial, exponential)

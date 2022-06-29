@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "28b86184df9e65ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "747cb6d1016e0f8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0-1 knapsack problem.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ddfc2e974144975",
+    "type": "split",
+    "children": [
+      {
+        "id": "8351a5fe4b3704a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d073b41c796cd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b217d1cbc019d1d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89ac67ea261e2b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e775982e5b792f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578476a5ae246f41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-1 knapsack problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "747cb6d1016e0f8c",
+  "lastOpenFiles": [
+    "0-1 knapsack problem.md",
+    "acceptance testing.md",
+    "adherent point.md"
+  ]
+}

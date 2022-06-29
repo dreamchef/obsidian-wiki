@@ -1,10 +1,4 @@
----
-id: q7bhqaiq950qnon6i7wp6fu
-title: Monte Carlo Simulation
-desc: ''
-updated: 1656512855252
-created: 1654530813390
----
+
 #quantitative-analysis  
 
 1. Define variables

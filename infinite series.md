@@ -1,10 +1,4 @@
----
-id: s79sx6ob8lggh6bxmz9fdry
-title: Infinite Series
-desc: ''
-updated: 1656468359653
-created: 1654530813073
----
+
 #analysis 
 
 

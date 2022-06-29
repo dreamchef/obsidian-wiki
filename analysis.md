@@ -1,10 +1,4 @@
----
-id: zjdl5tvggxxdh1irt2f58tn
-title: Analysis
-desc: ''
-updated: 1656435169450
-created: 1654530812385
----
+
 #analysis
 
 field of mathematics that studies the [[real number]]s

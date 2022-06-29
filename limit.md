@@ -1,10 +1,4 @@
----
-id: k9t1pfjea3iv3cgimgofx1d
-title: Limit
-desc: ''
-updated: 1656469135891
-created: 1654530813218
----
+
 #analysis 
 
 a sequence $(a_n)_{n \in \mathbb{N}}$ [[converge]]s to a limit $a$,

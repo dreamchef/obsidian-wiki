@@ -1,10 +1,4 @@
----
-id: eowcbubyz1mmidv89clp6fl
-title: task decomposition (MIMD)
-desc: ''
-updated: 1654530813942
-created: 1654530813942
----
+
 #algorithms #paradigm 
 **Complexity:** [[NP-Complete]]
 # Task graph

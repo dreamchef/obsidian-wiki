@@ -1,10 +1,4 @@
----
-id: czlv78m1a78zoti71bdondc
-title: Phong shading
-desc: ''
-updated: 1656515178074
-created: 1654530812137
----
+
 #graphics 
 
 Calculate shade at each vertex and interpolate normal, then interpolate shade.  

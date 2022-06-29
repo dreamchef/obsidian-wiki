@@ -1,10 +1,4 @@
----
-id: nwhljscf9o4tfbmhwj13xjd
-title: Artificial Intelligence
-desc: ''
-updated: 1656435551872
-created: 1654530812417
----
+
 #algorithms #paradigm 
 
 1. science of making machines do things requiring human intelligence, or

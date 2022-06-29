@@ -1,10 +1,4 @@
----
-id: m66564ptw4tnkvfdtp84bvz
-title: Parity of Number of Properties
-desc: ''
-updated: 1656515084618
-created: 1654530814478
----
+
 #combinatorics 
 
 If there are $r$ properties, the number of objects having an even number of the properties is given by

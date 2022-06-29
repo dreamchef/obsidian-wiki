@@ -1,10 +1,4 @@
----
-id: 3njb5jhvl7090vjojhnxcj0
-title: Gale-Shapely Algorithm
-desc: ''
-updated: 1656452435338
-created: 1654530811868
----
+
 #combinatorics  #method
 
 *Input:* preference ordering with an equal number of heterosexual men and women

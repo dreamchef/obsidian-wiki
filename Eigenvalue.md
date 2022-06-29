@@ -1,10 +1,4 @@
----
-id: vtu4ums6jwfeq7vr2nhxqgy
-title: Eigenvalue
-desc: ''
-updated: 1654530811761
-created: 1654530811761
----
+
 #linear-algebra #concept
 only defined for square matrices
 

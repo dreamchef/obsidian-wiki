@@ -1,10 +1,4 @@
----
-id: xq8okubx1ky8x182azxqqa1
-title: Linearly Independent
-desc: ''
-updated: 1656469510949
-created: 1654530813278
----
+
 #linear-algebra #concept
 
 negation of [[linearly dependent]]

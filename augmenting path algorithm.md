@@ -1,10 +1,4 @@
----
-id: j7ksjzefeuxiyje3xfynbim
-title: Augmenting Path Algorithm
-desc: ''
-updated: 1656436060299
-created: 1654530812441
----
+
 #combinatorics
 1. Start with any [[matching]] $M$.
 2. Select an unsaturated vertex $x$  from which you have not previously done a search. If there is no such vertex, you are done: the graph has no [[augmenting path]] and $M$ is maximum.

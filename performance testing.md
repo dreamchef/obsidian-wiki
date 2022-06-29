@@ -1,10 +1,4 @@
----
-id: p6s2sc2rk11350sk6qntk7x
-title: Performance Testing
-desc: ''
-updated: 1656470093713
-created: 1654530813522
----
+
 #software-development 
 
 establishing benchmark behavior of the system

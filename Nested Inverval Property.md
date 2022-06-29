@@ -1,10 +1,4 @@
----
-id: k2cckpqv6c8m3hrntmxx6kf
-title: Nested Inverval Property
-desc: ''
-updated: 1656513176352
-created: 1654530812074
----
+
 #analysis 
 
 For each $n \in \mathbb{N}$ assume we are given a closed interval $I_n = [a_n,b_n] = \{x \in \mathbb{R} : a_n \leq x \leq b_n\}$.  Assume that each interval $I_n$ contains $I_{n+1}$.  Then it holds that

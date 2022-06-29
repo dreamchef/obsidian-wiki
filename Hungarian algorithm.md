@@ -1,10 +1,4 @@
----
-id: rjg5ig8u2iizh20y000n2n6
-title: Hungarian algorithm
-desc: ''
-updated: 1656453109482
-created: 1654530811927
----
+
 #combinatorics 
 
 given a graph, finds the minimum weight [[matching]]

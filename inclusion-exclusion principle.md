@@ -1,10 +1,4 @@
----
-id: 5f7h45z9hjzv7x8m06f892w
-title: Inclusion Exclusion Principle
-desc: ''
-updated: 1656468234392
-created: 1654530813040
----
+
 #combinatorics #theorem #todo
 
 If $N$ is the number of objects in set $A$ and $N(a_i)$ is the number of objects with property $i$, then

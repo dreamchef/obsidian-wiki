@@ -1,10 +1,4 @@
----
-id: i1keaefyez693u2phoxc1rq
-title: Graph M Coloring Problem
-desc: ''
-updated: 1656452796083
-created: 1654530812991
----
+
 #algorithms #combinatorics  
 
 Find a way to color an indirected graph using ***at most*** m different colors, so that no two adjacent vertices are the same color.

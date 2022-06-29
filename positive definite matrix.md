@@ -1,10 +1,4 @@
----
-id: 0s1amg2wzq21jnn8gljphqq
-title: Positive Definite Matrix
-desc: ''
-updated: 1656515348909
-created: 1654530813545
----
+
 #linear-algebra #concept 
 
 a [[symmetric]] matrix with positive [[Eigenvalue]]s

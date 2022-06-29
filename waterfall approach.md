@@ -1,10 +1,4 @@
----
-id: 1jtbo2at5cmgoxrqqnxtarb
-title: Waterfall Approach
-desc: ''
-updated: 1654530814076
-created: 1654530814076
----
+
 #software-development #paradigm 
 # Waterfall approach
 on each step, the previous one is frozen

@@ -1,10 +1,4 @@
----
-id: rlmdp4gudjavt7vny9cvq98
-title: Dijkstra's algorithm
-desc: ''
-updated: 1656451241678
-created: 1654530811731
----
+
 #algorithms
 
 Given a weighted graph and two vertices, find the the minimum-weight route between them.

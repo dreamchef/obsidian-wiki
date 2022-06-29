@@ -1,10 +1,4 @@
----
-id: kbrtkwk5rzrwe9ubweawmq8
-title: Backlog
-desc: ''
-updated: 1656535537606
-created: 1656535521628
----
+
 #software-development
 
 a prioritized "stack" made up of epics and stories (subdivisions of epics)

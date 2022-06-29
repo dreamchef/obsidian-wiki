@@ -1,10 +1,4 @@
----
-id: hb614gflqsl5laf2mpsn5mr
-title: Converge
-desc: ''
-updated: 1656469226906
-created: 1654530812703
----
+
 #analysis #definition 
 1. *[[sequence]]*: having a [[limit]] #todo
 2. *[[infinite series]]*, $B$: the [[sequence of partial sums]] [[converge]]s to $B$

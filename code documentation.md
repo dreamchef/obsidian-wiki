@@ -1,10 +1,4 @@
----
-id: 09zwvcyyopswbu4f46w37q7
-title: Code Documentation
-desc: ''
-updated: 1656447824271
-created: 1654530812580
----
+
 #software-development #paradigm 
 
 allows the developer and others to understand the code as quickly as possible

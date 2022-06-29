@@ -1,10 +1,4 @@
----
-id: pwu70bbz33sp6k2q0vwz5nd
-title: continuous integration (CI)
-desc: ''
-updated: 1656448299373
-created: 1654530812645
----
+
 #software-development 
 
 [[Agile development]] practice where the system undergoes the following operations several times a day, and every time a task is completed

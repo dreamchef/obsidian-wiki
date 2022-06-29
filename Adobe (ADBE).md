@@ -1,10 +1,4 @@
----
-id: akv6z6zkw4e6bayhuwadsnp
-title: Adobe (ADBE)
-desc: ''
-updated: 1656434846373
-created: 1654530811563
----
+
 developer of software used to create digital experiences and manage documents
 
 # Listings

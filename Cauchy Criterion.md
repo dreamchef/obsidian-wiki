@@ -1,10 +1,4 @@
----
-id: z7rx6j8ua97smq7hp7bru9s
-title: Cauchy Criterion
-desc: ''
-updated: 1656444634367
-created: 1654530811654
----
+
 #analysis
 
 ## For Sequences

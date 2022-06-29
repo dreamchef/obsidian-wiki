@@ -1,10 +1,4 @@
----
-id: q82she2k75wmfjeh8o2vg83
-title: Archimedean Property
-desc: ''
-updated: 1656435421270
-created: 1654530811589
----
+
 #analysis
 ## Part One
 Given any real number $x$ there exists an $n \in \mathbb{N}$ satisfying $n > x$.

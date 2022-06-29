@@ -1,10 +1,4 @@
----
-id: qw6klg4sabsybniuc0g72t1
-title: Span
-desc: ''
-updated: 1656536418293
-created: 1654530813810
----
+
 #linear-algebra 
 
 Let V be a vector [[vector space]] and suppose $\vec{v}_i \in V$ for $i = 1, 2, 3, ..., k$.  The set of all linear combinations of the vectors $\vec{v}_i$ is the span of those vectors and is denoted $span(\vec{v}_1,\vec{v}_2,\vec{v}_3,...,\vec{v}_k)$.

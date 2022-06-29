@@ -1,10 +1,4 @@
----
-id: 1uoe2lsgjhzrdhx9qlb98fi
-title: Bolzano-Weierstrauss Theorem
-desc: ''
-updated: 1656438230679
-created: 1654530814100
----
+
 #analysis
 
 Every [[bounded ]] [[sequence]] contains a [[converge]]nt [[subsequence]].

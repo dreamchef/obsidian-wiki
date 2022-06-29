@@ -1,10 +1,4 @@
----
-id: wjmgcoycqnd8dn9rxf30bcb
-title: Stitch Fix (SFIX)
-desc: ''
-updated: 1656536646305
-created: 1654530812278
----
+
 #enterprise 
 # Service Model
 Sends customers sets of clothing pieces based on information they provide and their past decisions.  Charges a fixed fee for a set, then additional cost for any items kept over that amount.  The customer sends items they don't want back.

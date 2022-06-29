@@ -1,10 +1,4 @@
----
-id: mdvgphsrthgo8a5jvdp9qai
-title: University of Colorado at Boulder
-desc: ''
-updated: 1654530812296
-created: 1654530812296
----
+
 #education #university
 
 # Organizations

@@ -1,10 +1,4 @@
----
-id: akr2wbc28ousniwpbfyev9b
-title: Cauchy Condensation Test
-desc: ''
-updated: 1656444471390
-created: 1654530811642
----
+
 #analysis
 
 Suppose $(b_n)$ is [[decreasing]] and satisfies $b_n \geq 0$ for all $n \in \mathbb{N}$.  Then the series $\sum_{n=1}^\infty b_n$ [[converge]]s if and only if the series

@@ -1,10 +1,4 @@
----
-id: phj7tw1tr5ejy57gby7ka3h
-title: Scrum
-desc: ''
-updated: 1656535586023
-created: 1654530812254
----
+
 #software-development
 
 framework for managing a process consisting of the following principles and practices

@@ -1,10 +1,4 @@
----
-id: u2rgctukq4qgzolal1qeszz
-title: Traveling Salesperson Problem
-desc: ''
-updated: 1654530814011
-created: 1654530814011
----
+
 #algorithms #problem
 
 # Algorithms

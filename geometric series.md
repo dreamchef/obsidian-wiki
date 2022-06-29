@@ -1,10 +1,4 @@
----
-id: a9j76aid53u56pqnbrlz6gz
-title: Geometric Series
-desc: ''
-updated: 1654530812983
-created: 1654530812983
----
+
 #analysis #combinatorics #definition 
 # geometric series
 a [[series]] is called geometric if it of the form

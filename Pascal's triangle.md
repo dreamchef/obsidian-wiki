@@ -1,10 +1,4 @@
----
-id: r2416wizzdkeftx36vqssyq
-title: Pascal's triangle
-desc: ''
-updated: 1656515105742
-created: 1654530812116
----
+
 #algorithms 
 
 # Computation

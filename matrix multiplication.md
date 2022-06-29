@@ -1,10 +1,4 @@
----
-id: w9ntvb6c3t0mtxy7qp9fc5i
-title: Matrix Multiplication
-desc: ''
-updated: 1656512630687
-created: 1654530813340
----
+
 #linear-algebra #concept 
 
 Each entry in *C* is the [[dot product]]s of a row in *A* with a column in *C*.

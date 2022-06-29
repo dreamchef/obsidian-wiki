@@ -1,10 +1,4 @@
----
-id: scbxd7m83y5wa45y4cx7xqn
-title: Random Variable Distribution
-desc: ''
-updated: 1656515908191
-created: 1654530813588
----
+
 #quantitative-analysis #probability
 - [[normal distribution]]
 - uniform

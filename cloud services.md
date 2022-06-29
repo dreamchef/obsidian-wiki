@@ -1,10 +1,4 @@
----
-id: wn8mgu11t97wv5plw7nwgcj
-title: Cloud Services
-desc: ''
-updated: 1656447607172
-created: 1654530812571
----
+
 #software-development 
 
 *Infrastructure-as-a-Service*:

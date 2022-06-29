@@ -1,10 +1,4 @@
----
-id: hmwttdkfahr0qhh1rr3h7nc
-title: Optimum assignment problem
-desc: ''
-updated: 1656514502805
-created: 1654530812094
----
+
 #combinatorics 
 
 Given n workers and m jobs, and performance ratings $r_{ij}$, and adjacency $x_{ij}$ for worker i and job j; find a fully saturated, maximum-weight (total performance rating) matching.

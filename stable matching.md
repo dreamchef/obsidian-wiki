@@ -1,10 +1,4 @@
----
-id: gve03mnfruld88w9sj1ldgp
-title: Stable Matching
-desc: ''
-updated: 1656536574605
-created: 1654530813846
----
+
 #combinatorics 
 
 a [[matching]] where

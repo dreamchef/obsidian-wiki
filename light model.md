@@ -1,10 +1,4 @@
----
-id: jzkt00q25djt3c3qyo6xmwx
-title: Light Model
-desc: ''
-updated: 1656535909218
-created: 1654530813187
----
+
 #graphics
 
 describes the interaction between materials and light sources

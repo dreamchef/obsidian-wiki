@@ -1,10 +1,4 @@
----
-id: adwx1ozyrsnnc22gkw8bl1k
-title: Regression Testing
-desc: ''
-updated: 1656516373370
-created: 1654530813667
----
+
 #software-development 
 
 

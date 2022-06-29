@@ -1,10 +1,4 @@
----
-id: jc2u5xvs0rb3kdsc51orp4l
-title: Iterative development
-desc: ''
-updated: 1654530811933
-created: 1654530811933
----
+
 #software-development #methodology
 
 ![](img/iterativeDevelopment.png)

@@ -1,10 +1,4 @@
----
-id: root
-title: Home
-desc: ''
-updated: 1656517333724
-created: 1595961348801
----
+
 
 Welcome to the Thought Garden!
 

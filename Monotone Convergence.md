@@ -1,10 +1,4 @@
----
-id: 3gc8h6vix83s7gb5uv1z5z0
-title: Monotone Convergence
-desc: ''
-updated: 1656512830185
-created: 1654530812044
----
+
 #analysis 
 
 If a sequence is [[monotone]] and [[bounded]], then it is [[converge]]nt.

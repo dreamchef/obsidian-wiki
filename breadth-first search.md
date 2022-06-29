@@ -1,10 +1,4 @@
----
-id: j5klo4dne65rjklknc930rb
-title: Breadth First Search
-desc: ''
-updated: 1654530812524
-created: 1654530812524
----
+
 #algorithms #method
 **Time complexity**: O(|E|+|V|)
 # Steps

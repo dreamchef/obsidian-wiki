@@ -1,10 +1,4 @@
----
-id: 1ugju1nrlau13cd4akyd0lk
-title: Exact Number of Properties
-desc: ''
-updated: 1656452270945
-created: 1654530814468
----
+
 #combinatorics
 
 The number of objects having exactly $m$ properties if there are $r$ properties and $m \leq r$, is given by

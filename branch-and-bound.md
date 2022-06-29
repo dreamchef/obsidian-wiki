@@ -1,10 +1,4 @@
----
-id: 3b0egcgr0lnb4obtic46o20
-title: Branch and Bound
-desc: ''
-updated: 1656443768387
-created: 1654530812521
----
+
 #algorithms #paradigm
 # For Breadth-First Search
 ```

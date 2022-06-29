@@ -1,10 +1,4 @@
----
-id: r6swd1mt81gnvs2erqanmym
-title: Awk
-desc: ''
-updated: 1656436369365
-created: 1654530812459
----
+
 #software-development
 
 bash command that searches for patterns of text and performs some action on it

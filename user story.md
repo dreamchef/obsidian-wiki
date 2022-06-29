@@ -1,10 +1,4 @@
----
-id: q2ow4olbj6z9sdpsmxc3pey
-title: User Story
-desc: ''
-updated: 1654530814045
-created: 1654530814045
----
+
 #software-development #artifact 
 
 [[system requirements]] in [[Agile development]]. Small enough to complete within a [[sprint]].

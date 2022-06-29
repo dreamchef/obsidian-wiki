@@ -1,10 +1,4 @@
----
-id: vskaituf5qvqxt1nhqc30t9
-title: Agile development
-desc: ''
-updated: 1656434838522
-created: 1654530811578
----
+
 #software-development 
 
 set of guidelines in which we take an adaptive approach and make it agile it in development activities and tasks

@@ -1,10 +1,4 @@
----
-id: 9zza7imwbc6ibwoqxkjwrnx
-title: N Queens Problem
-desc: ''
-updated: 1656513033817
-created: 1654530813402
----
+
 #algorithms
 
 Place n queens on an n by n chess board so that no two queens threaten eachother.

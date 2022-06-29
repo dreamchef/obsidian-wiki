@@ -1,10 +1,4 @@
----
-id: 1k4xspf8je7zscdyqfhoxoo
-title: NP-Complete
-desc: ''
-updated: 1656514097459
-created: 1654530812065
----
+
 #algorithms 
 
 Class of problems for which exponential-time algorithms exist and polynomial time algorithms may or may not exist.

@@ -1,10 +1,4 @@
----
-id: lezurlf8fyjgzyf3smay9q9
-title: Recurrence Relation
-desc: ''
-updated: 1656516270692
-created: 1654530813648
----
+
 #algorithms #combinatorics 
 
 formula reducing later values of a sequence to earlier ones, with an initial condition

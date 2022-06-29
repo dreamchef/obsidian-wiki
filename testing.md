@@ -1,10 +1,4 @@
----
-id: 12e9sj447um9wg2qs7ow6b4
-title: Testing
-desc: ''
-updated: 1654530813963
-created: 1654530813963
----
+
 #software-development 
 # testing
 

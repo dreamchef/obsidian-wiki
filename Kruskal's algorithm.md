@@ -1,10 +1,4 @@
----
-id: bvlesp0t6g22naqhvbhu73y
-title: Kruskal's algorithm
-desc: ''
-updated: 1656468814375
-created: 1654530811954
----
+
 #algorithms #combinatorics 
 
 given a connected graph, finds a  minimum [[spanning tree]]

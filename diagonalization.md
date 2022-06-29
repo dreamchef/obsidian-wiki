@@ -1,10 +1,4 @@
----
-id: cozquwjg5ttzuvsnc7q0rnu
-title: Diagonalization
-desc: ''
-updated: 1656450942466
-created: 1654530812861
----
+
 #linear-algebra
 
 The factorization $X^{-1}AX = \Lambda$, where $\Lambda$ has the [[Eigenvalue]]s of $A$ along its diagonal and $X$ is the [[Eigenvector]] matrix.

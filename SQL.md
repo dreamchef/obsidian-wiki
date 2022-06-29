@@ -1,10 +1,4 @@
----
-id: e2euqw7j5xbft3d723c2igl
-title: SQL
-desc: ''
-updated: 1656536541426
-created: 1654530812236
----
+
 #software-development #databases
 
 a non-procedural database query language, where inputs and outputs are tables

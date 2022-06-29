@@ -1,10 +1,4 @@
----
-id: v5x04hobha0jpv9ijcxr4vb
-title: Peano axioms
-desc: ''
-updated: 1656470256358
-created: 1654530812121
----
+
 #analysis 
 
 axioms for the natural numbers:

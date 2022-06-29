@@ -1,10 +1,4 @@
----
-id: 87nt3fblcqcd0iiemgsp7uf
-title: Autodesk (ADSK)
-desc: ''
-updated: 1656436159755
-created: 1654530811602
----
+
 #enterprise #design
 
 designs and develops software for architecture, engineering, construction, manufacturing, and media and entertainment industries

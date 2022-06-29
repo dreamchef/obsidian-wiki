@@ -1,19 +1,4 @@
----
-id: 4tdpfjdenbhthmokeph0l2h
-title: Linux
-desc: ''
-updated: 1656469599360
-created: 1654530811974
----
-#software-development 
 
-operating system which is an open source variant of the trademarked UNIX
-
-
-In the file structure, `/` is root and standard top-level directories include `bin`, `tmp`, `usr`, `src`.
-
-| Command | Function| Modifiers |
-|---|---|---|---
 |`pwd`| print current working directory| | 
 |`cp`|copy files||
 |`rm`|remove files||

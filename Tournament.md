@@ -1,10 +1,4 @@
----
-id: 9wrrclyyz72ujchsc6iu088
-title: Tournament
-desc: ''
-updated: 1654530812285
-created: 1654530812285
----
+
 #combinatorics #concept
 
 A digraph where pairs of distinct vertices, there is a single arc between them

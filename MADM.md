@@ -1,10 +1,4 @@
----
-id: mzh0t84dena4jo0qm63t9gf
-title: MADM
-desc: ''
-updated: 1656470353413
-created: 1654530812024
----
+
 #quantitative-analysis 
 
 a method in quantative analysis for decision-making

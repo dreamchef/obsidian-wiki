@@ -1,10 +1,4 @@
----
-id: 6iqmfiqi0uij2al6ru975ks
-title: Intergral Test for Convergence
-desc: ''
-updated: 1656468407267
-created: 1654530813093
----
+
 #analysis 
 Suppose $\sum_{n=1}^\infty a_n$ satisfies
 1. $a_n \leq 0$

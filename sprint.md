@@ -1,10 +1,4 @@
----
-id: awnd8y0yls04d0s91p45kec
-title: Sprint
-desc: ''
-updated: 1656535516540
-created: 1654530813838
----
+
 #software-development #methodology 
 
 a time-controlled mini-project that implements a specific portion of the system, central to [[Agile Development]] and [[Scrum]]

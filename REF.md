@@ -1,10 +1,4 @@
----
-id: g9xyzdkik87kpik6u5w4hou
-title: REF
-desc: ''
-updated: 1656516283314
-created: 1654530812221
----
+
 #linear-algebra #concept
 
 A matrix B is in row echelon form if (both)

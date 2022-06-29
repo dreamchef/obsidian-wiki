@@ -1,10 +1,4 @@
----
-id: qg6lredz9wnrf8xw8zna0c7
-title: Convergence of Alternating Series
-desc: ''
-updated: 1656448671007
-created: 1654530812710
----
+
 #analysis 
 
 If an [[alternating series]] satifies

@@ -1,10 +1,4 @@
----
-id: 93ew5vpxncrl5gjrw2pvv5s
-title: Singular Value Decomposition
-desc: ''
-updated: 1656536304936
-created: 1654530813765
----
+
 #linear-algebra 
 
 $$X = U\Sigma V^T$$, used to find the most important rank-1 matrices

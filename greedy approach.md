@@ -1,10 +1,4 @@
----
-id: mtfdb478pkhqcl0hzyembzb
-title: Greedy Approach
-desc: ''
-updated: 1656452911499
-created: 1654530813004
----
+
 #algorithms 
 
 set of algorithms for finding a solution set given

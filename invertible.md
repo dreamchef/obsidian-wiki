@@ -1,10 +1,4 @@
----
-id: 602bvl1r3v6n6ynoi014wvm
-title: Invertible
-desc: ''
-updated: 1656468530229
-created: 1654530813132
----
+
 #linear-algebra 
 
 An n-by-by matrix A is invertible if there is an n-by-n matrix Z such that

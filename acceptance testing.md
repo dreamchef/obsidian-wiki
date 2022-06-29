@@ -1,10 +1,4 @@
----
-id: yhfhhpl7nkee3081spbh4rk
-title: Acceptance Testing
-desc: ''
-updated: 1656434723935
-created: 1654530812336
----
+
 #software-development 
 
 Users validate the product against their requirements.

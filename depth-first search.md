@@ -1,10 +1,4 @@
----
-id: 3jzueoyfjf4q2zaxort4z19
-title: Depth First Search
-desc: ''
-updated: 1656450972123
-created: 1654530812824
----
+
 #combinatorics #algorithms
 # For Connectedness
 Complexity is $n^2 + n$.

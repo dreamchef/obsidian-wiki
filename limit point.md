@@ -1,10 +1,4 @@
----
-id: gzhi4ztt2lan26lszve1xgv
-title: Limit Point
-desc: ''
-updated: 1656469015438
-created: 1654530813207
----
+
 #analysis
 
 # limit point

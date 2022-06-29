@@ -1,10 +1,4 @@
----
-id: od6jvg68rtn5e9984w4czvb
-title: Determinant
-desc: ''
-updated: 1656450962726
-created: 1654530812836
----
+
 #linear-algebra
 only defined in terms of square matrices
 # Computation
