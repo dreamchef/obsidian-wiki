@@ -1,4 +1,4 @@
 
 #analysis
 
-If a series [[absolute convergence test|converges absolutely]] then any rearrangement of this series [[converges]] to the same [[limit]].
+If a series [[Absolute Convergence Test|converges absolutely]] then any rearrangement of this series [[converges]] to the same [[limit]].

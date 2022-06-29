@@ -1,7 +1,7 @@
 
 #software-development #artifact 
 
-[[system requirements]] in [[Agile development]]. Small enough to complete within a [[sprint]].
+[[system requirements]] in [[Agile Development]]. Small enough to complete within a [[sprint]].
 
 Includes what/who/why/when, or the feature description, the person who benefits, the business value, and the priority relative to other user stories.  For example: As a stockbroker, I want Bloomterm Terminal so that I can find information more easily.
 

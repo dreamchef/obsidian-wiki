@@ -1,7 +1,7 @@
 
 #software-development 
 
-[[Agile development]] practice where the system undergoes the following operations several times a day, and every time a task is completed
+[[Agile Development]] practice where the system undergoes the following operations several times a day, and every time a task is completed
 1. Integrated
 2. build
 3. compiled in executable

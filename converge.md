@@ -11,7 +11,7 @@
 - [[convergence of geometric series]]
 - [[divergence test]]
 - [[Abel's Test]]
-- [[absolute convergence test]]
+- [[Absolute Convergence Test]]
 - [[convergence of alternating series]]
 - [[convergence of geometric series]]
 
