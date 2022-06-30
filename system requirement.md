@@ -1,5 +1,5 @@
 
-#software-development #concept 
+#software-development 
 
 activities a new system must perform or support and the constrints that the new system must meet
 

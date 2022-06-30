@@ -1,4 +1,3 @@
-
 #analysis 
 
 If $\sum_{k=1}^\infty a_k = A$ and $\sum_{k=1}^\infty b_k = B$, then

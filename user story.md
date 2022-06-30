@@ -1,16 +1,10 @@
 
 #software-development #artifact 
 
-[[system requirements]] in [[Agile Development]]. Small enough to complete within a [[sprint]].
+system requirement in [[Agile Development]] that is small enough to complete within a [[sprint]] and includes the feature description, beneficiaries, the business value, and priority (who/what/why/when)
 
-Includes what/who/why/when, or the feature description, the person who benefits, the business value, and the priority relative to other user stories.  For example: As a stockbroker, I want Bloomterm Terminal so that I can find information more easily.
+*Example*: "As a stockbroker, I want Bloomterm Terminal so that I can find information more easily".
 
-# Acceptance criteria
-defines when the story is done, implies a specific software test
+The story's **acceptance criteria** defines when the story is done and implies a specific software test.
 
-# Assignment points
-Story points are a relative measure to assess whether big or small.  They into account work volume, complexity, risk/uncertainty and duration.
-
-## Velocity
-- points "done" per sprint
-- can be used to estimate time left in project
+Story **points** are a relative measure that takes into account work volume, complexity, risk/uncertainty and duration. They allow the use of **velocity** (points completed per sprint) to extrapolate time left in the project.

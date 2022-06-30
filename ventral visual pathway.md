@@ -1,4 +1,4 @@
 
-#cognition #biology 
-# ventral visual pathway 
+#cognition 
+
 functional stream involved in the visual recognition of objects

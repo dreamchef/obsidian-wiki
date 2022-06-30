@@ -1,7 +1,7 @@
 
 #graphics
 # Methods
-- [[keyframe]]
+- keyframing
 - [[rigging]]
 - [[storyboarding]]
 

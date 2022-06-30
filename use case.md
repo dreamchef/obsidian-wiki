@@ -5,9 +5,3 @@ activity the system performs, usually in reponse to a user request
 
 # Documentation
 ![[useCaseDiagram.png]]
-
-# Diagram
-Each center node is a use case (i.e. add item to cart)
-The customer is on the left
-Other people who interact with the system on the right
-Edge from person to use case indicates interaction

@@ -1,16 +1,8 @@
 
-#algorithms #paradigm 
-**Complexity:** [[NP-Complete]]
-# Task graph
-#q what was that about edge weights?
-One start node and one edge node.  Each edge is a subtask.
-## Critical path
-takes the longest or something
-## Sequential time
-the sum of all edges
-## Speedup
-$$\frac{\text{Sequential Time}}{\text{Parallel Time}}$$
-## Span
-Greatest number of processors running simultaneously.
-## Partitioning
-Draws lines.  Each space contains the tasks the processor will do.
+#algorithms 
+
+graph representation of a parallel computing task containing one start node and one end node, in which edge edge is a subtask.
+
+The associated **sequential time** is the sum of all edge weights,  **speedup** is $\frac{\text{Sequential Time}}{\text{Parallel Time}}$, and the **span** is the greatest number of processors running simultaneously.
+
+To partition (decompose), draw horizontal lines.  Each space contains the tasks one processor will do.

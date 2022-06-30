@@ -3,7 +3,7 @@
 
 interface with a shell, everything typed in terminal window is sent back to the shell and the response from the OS is printed on your terminal window
 
-# Examples
+Examples include
 - gnome-terminal
 - konsole
 - xterm
@@ -11,6 +11,3 @@ interface with a shell, everything typed in terminal window is sent back to the 
 - kvt
 - nxterm
 - eterm
-
-# Linux
-emulator

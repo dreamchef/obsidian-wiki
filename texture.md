@@ -1,23 +1,13 @@
 
-#graphics #concept
+#graphics 
 
-Add detail without explicit modeling.
+a way of adding detail without explicit modeling.
 
-# Image map Types
-A 2D image is used to texture the surface 
-- (takes memory).
-- Uses u-v coords
-## u-v Coordinate lookup
-u, [[basis]] corresponding to $x$-axis.
-v corresponds to $y$-axis
-1. #todo #q how does uv work?
-# Procedural map
-Given coordinates, outputs color based on mathematical equations (curves)
-- Takes computation time
-- Used for natural elements
-- Uses location coords**
+With an **image map** texture, a 2D image is used to texture the surface. This uses $(u,v)$ coordinates. This takes up storage.
 
-## Function example
+Alternatively, a **procedural map** outputs color at each coordinate position using a mathematical curve. This takes computation time, but is ideal for natural elements.
+
+The `C++` code below uses a procedural map to texture wood grain using trigonometric curves.
 ```
 Color woodGrain(double x,y,z) {
 	double radius = sqrt( (x\*x + z\*z) ) ;

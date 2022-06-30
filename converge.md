@@ -9,8 +9,8 @@
 - [[comparison test for series]]
 - [[intergral test for convergence]]
 - [[convergence of geometric series]]
-- [[divergence test]]
-- [[Abel's Test]]
+- divergence test
+- Abel's Test
 - [[Absolute Convergence Test]]
 - [[convergence of alternating series]]
 - [[convergence of geometric series]]
