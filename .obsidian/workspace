@@ -7,12 +7,8 @@
         "id": "747cb6d1016e0f8c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git.Md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.Md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,8 @@
   },
   "active": "747cb6d1016e0f8c",
   "lastOpenFiles": [
+    "virtual machine.md",
+    "waterfall approach.md",
     "Git.Md",
     "Good'S Multidigraph Theorem.Md",
     "HTTP Call.md",
@@ -96,8 +93,6 @@
     "JavaScript.md",
     "Node.js.md",
     "Data Definition Language.md",
-    "Data Manipulation Language.md",
-    "Stitch Fix (SFIX).md",
-    "Stable Equilibrium.Md"
+    "Data Manipulation Language.md"
   ]
 }
