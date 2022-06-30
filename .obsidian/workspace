@@ -7,8 +7,12 @@
         "id": "747cb6d1016e0f8c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Smartsheet.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Smartsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "747cb6d1016e0f8c",
   "lastOpenFiles": [
+    "Smartsheet.md",
+    "VLOOKUP.md",
     "virtual machine.md",
     "waterfall approach.md",
     "Git.Md",
@@ -91,8 +98,6 @@
     "HTTP Call.md",
     "DBMS.md",
     "JavaScript.md",
-    "Node.js.md",
-    "Data Definition Language.md",
-    "Data Manipulation Language.md"
+    "Node.js.md"
   ]
 }
