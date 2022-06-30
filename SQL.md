@@ -15,8 +15,8 @@ a non-procedural database query language, where inputs and outputs are tables
 - `primary key`
 - `not null`
 # Linguistic subsets
-- [[data definition language (DDL)]]
-- [[data manipulation language (DML)]] 
+- [[Data Definition Language]]
+- [[Data Manipulation Language]] 
 
 # Queries
 `select` statement

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Virtual Machine.Md",
+            "file": "Git.Md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Machine.Md",
+                "file": "Git.Md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "747cb6d1016e0f8c",
   "lastOpenFiles": [
-    "Virtual Machine.Md",
-    "Vieta Theorem.Md",
-    "Waterfall Approach.Md",
-    "Wireframe.Md",
-    "Vertex Cover.Md",
-    "Ventral Visual Pathway.Md",
-    "Vector Space.Md",
-    "Vector Orthogonal To Subspace.Md",
-    "Vector Field.Md",
-    "Variance.Md"
+    "Git.Md",
+    "Good'S Multidigraph Theorem.Md",
+    "HTTP Call.md",
+    "DBMS.md",
+    "JavaScript.md",
+    "Node.js.md",
+    "Data Definition Language.md",
+    "Data Manipulation Language.md",
+    "Stitch Fix (SFIX).md",
+    "Stable Equilibrium.Md"
   ]
 }

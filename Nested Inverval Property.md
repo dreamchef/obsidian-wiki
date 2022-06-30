@@ -8,4 +8,4 @@ $$\bigcup\limits_{n=1}^\infty I_n \neq \emptyset$$
 Consider the set $A = \{a_n : n \in \mathbb{N}\}$ of left-hand endpoints of the intervals.  Clearly every $b_n$ serves as an upper bound for $A$.  Let real number $x = sup A$.
 Now consider a particular $I_n = [a_n,b_n]$.  Because $x$ is an upper bound for $A$, we know $a_n \leq x$.  The fact that each $b_n$ is an upper bound for $A$ and that $x$ is the [[supremum]] implies that $x \leq b_n$.  So $a_n \leq x \leq b_n$ and an arbitrary small interval $I_n$ is nonempty, so the intersection is nonempty.
 
-This directly implies the [[Bolzano-Weierstress Thm.]].
+This directly implies the [[Bolzano-Weierstress Theorem]].

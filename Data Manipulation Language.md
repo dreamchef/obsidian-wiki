@@ -1,8 +1,9 @@
-|
-| `update` | |
-| `insert` | |
-| `delete` | |
+#databases #software-development
 
+# Operations
+- `update`  
+- `insert`  
+- `delete`  
 # Examples
 ```
 insert into <table name>

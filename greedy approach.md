@@ -10,5 +10,5 @@ The algorithms following these general steps
 2. Check if the new set is feasible.
 3. Check if the new set constitutes a full solution.
 # Algorithms
-- [[Prim's algorithm]]
-- [[Kruskal's algorithm]]
+- [[Prim's Algorithm]]
+- [[Kruskal's Algorithm]]
